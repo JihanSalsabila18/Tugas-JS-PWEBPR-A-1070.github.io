@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+.container {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: justify; 
+  padding: 1em; 
+  border: 1px solid #ddd; 
+  width: 80%; 
+  height: 600px;
+  margin: auto; 
+  flex-direction: column;
+
+}
+
+.container1 {
+    border-radius: 20px;
+    background-color:#E12E2E;
+    width: 70%; 
+    height: 400px;
+    margin: auto; 
+    text-align: justify; 
+    padding: 1em; 
+    border: 1px solid #ddd; 
+}
+
+
+.profesiawal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20%;
+    flex-direction: column;
+
+}
+
+.pertanyaan {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    width: 80%;
+    height: 60px;
+    top: 191px;
+    left: 131px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#FEEEE2;
+    border-radius: 20px;
+    flex-direction: column;
+}
